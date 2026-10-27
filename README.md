@@ -195,7 +195,7 @@ Honest scope, not a full feature-gap list — the design choices below were made
 
 ## 👤 Author
 
-Built by [Lavan](https://github.com/lavanyhub) — CS student at Thapar University specializing in AI & RAG systems.
+Built by [Tanishak ]([https://github.com/lavanyhub](https://github.com/tanishak00000007777)) — CS student at Thapar University specializing in Data Science.
 
 ## 📄 License
 
